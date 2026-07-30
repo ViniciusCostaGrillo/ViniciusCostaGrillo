@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vinícius%20Grillo&fontSize=55&fontAlignY=40&desc=Python%20•%20AI%20Engineering%20•%20Cyber%20Security&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vinícius%20Costa%20Grillo&fontSize=50&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20SOC%20%E2%80%A2%20GRC%20%E2%80%A2%20AI%20Security%20%7C%20English%20C2&descAlignY=58"/>
 
 <h3 align="center">
-Building AI Systems, Exploring Security and Creating with Python 🐍
+🛡️ Cybersecurity • SOC & Vulnerability Management • GRC & Risk Assessment • AI Security 🐍
 </h3>
 
 <div align="center">
@@ -12,55 +12,42 @@ Building AI Systems, Exploring Security and Creating with Python 🐍
 
 ---
 
-# 👋 Hello World!
+# 👋 Hello World! I'm Vinícius Grillo
 
-I'm **Vinícius Grillo**, a Brazilian developer passionate about **Python**, **Artificial Intelligence**, **LLMs**, **Cyber Security**, Linux and Open Source.
+I am an **Information Security Analyst** specializing in **SOC Operations, GRC (Governance, Risk & Compliance), Vulnerability Management**, and **AI System Security**. 
 
-- 💼 Support Analyst in a public management software company
-- 🎓 ADS student
-- 🐍 Python enthusiast
-- 🤖 Learning AI Engineering and Agentic AI
-- 🔐 Cyber Security enthusiast
-- 🐧 Linux user
-- 🎸 Guitar player
-- 🏎️ Motorsport and gaming fan
+With a strong foundation in **IT Support, Public Auditing & Fraud Detection**, I bridge the gap between technical threat investigation, regulatory compliance, and risk mitigation.
 
----
-
-# 🚀 Current Projects
-
-### 🧠 Aura Build
-AI-powered website builder inspired by Lovable and v0.
-
-### 🤖 LLM & Agent Experiments
-Projects involving LangChain, Ollama, MCP and RAG.
-
-### 🔐 Security Lab
-Personal studies and experiments focused on Linux and Cyber Security.
+- 🛡️ **Current Focus**: Blue Team Operations, SIEM (Microsoft Sentinel/Defender), SOC Incident Triage & GRC
+- 💼 **Professional Experience**: Support Analyst at Governança Brasil (GOVBR) & Ex-Auditor Fiscal (Risk & Compliance)
+- 🎓 **Education**: Systems Analysis and Development (UNIPAR) | Graduated in Public Management (*Top 1 State Rank / CRC-PR*)
+- 🤖 **AI Security Research**: LLM Attack Surface, Prompt Injection Defense, Guardrails & Agentic AI
+- 🌐 **Languages**: Native Portuguese | Fluent English (EF SET Level C2)
 
 ---
 
-# 🌱 Currently Learning
+# 🚀 Core Competencies & Specializations
 
-- Python Advanced
-- FastAPI
-- AI Engineering
-- LangChain
-- Ollama
-- MCP
-- RAG
-- Docker
-- Linux
-- Cloud Computing
-- Cyber Security
+### 🛡️ SOC & Blue Team Operations
+- SIEM log analysis, anomaly detection, and continuous security monitoring (Microsoft Sentinel / Defender / Cisco).
+- Incident triage, phishing investigation, root cause analysis (RCA), and evidence collection.
+- Hardening & administration across Windows, Linux, and Active Directory environments.
+
+### 📊 GRC & Vulnerability Management
+- Risk assessment, regulatory compliance auditing, and threat mapping.
+- Developing technical documentation, SOPs, runbooks, and vulnerability remediation tracking.
+
+### 🤖 AI Security & Python Automation
+- Scripting for security automation using Python & Bash.
+- Testing LLM vulnerabilities (Prompt Injection, Jailbreaking, Guardrail bypass, API Token Security).
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,docker,linux,fastapi,git,github,postgresql,vscode,java,bash" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,windows,azure,docker,git,github,fastapi,postgres,mysql,vscode" />
 
 </div>
 
@@ -68,11 +55,12 @@ Personal studies and experiments focused on Linux and Cyber Security.
 
 <div align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-blue?style=for-the-badge)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-red?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-SOC_%26_GRC-red?style=for-the-badge&logo=shield)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-SIEM-blue?style=for-the-badge&logo=microsoft)
+![Active Directory](https://img.shields.io/badge/Active_Directory-IAM-0078D4?style=for-the-badge&logo=microsoft)
+![Python Automation](https://img.shields.io/badge/Python-Security_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-LLM_Defense-412991?style=for-the-badge&logo=openai&logoColor=white)
+![English C2](https://img.shields.io/badge/English-C2_Fluent-success?style=for-the-badge)
 
 </div>
 
@@ -82,9 +70,9 @@ Personal studies and experiments focused on Linux and Cyber Security.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuscostagrillo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCostaGrillo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscostagrillo&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostaGrillo&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -94,7 +82,7 @@ Personal studies and experiments focused on Linux and Cyber Security.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=viniciuscostagrillo&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ViniciusCostaGrillo&theme=tokyonight"/>
 
 </div>
 
@@ -104,7 +92,7 @@ Personal studies and experiments focused on Linux and Cyber Security.
 
 <div align="center">
 
-![snake gif](https://github.com/viniciuscostagrillo/viniciuscostagrillo/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ViniciusCostaGrillo/ViniciusCostaGrillo/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -114,7 +102,7 @@ Personal studies and experiments focused on Linux and Cyber Security.
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/viniciuscostagrillo/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -130,24 +118,18 @@ Personal studies and experiments focused on Linux and Cyber Security.
 class ViniciusGrillo:
 
     def __init__(self):
-        self.language = "Python"
-        self.interests = [
-            "AI Engineering",
-            "LLMs",
-            "Cyber Security",
-            "Linux",
-            "Open Source"
+        self.role = "Information Security Analyst (SOC / GRC / AI Security)"
+        self.location = "Brazil (Open to Local & Remote Global Opportunities)"
+        self.languages = {"Portuguese": "Native", "English": "C2 Fluent"}
+        self.core_focus = [
+            "SOC & Incident Response (SIEM/EDR)",
+            "Vulnerability Management & GRC",
+            "Active Directory & Systems Security",
+            "AI Security & LLM Guardrails"
         ]
 
-    def currently_building(self):
-        return [
-            "Aura Build",
-            "AI Agents",
-            "RAG Applications"
-        ]
-
-    def motto(self):
-        return "Keep building. Keep learning."
+    def current_mission(self):
+        return "Protecting systems, optimizing security posture, and leveraging AI safely."
 
 me = ViniciusGrillo()
 ```
