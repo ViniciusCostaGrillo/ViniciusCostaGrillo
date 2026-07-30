@@ -70,9 +70,9 @@ With a strong foundation in **IT Support, Public Auditing & Fraud Detection**, I
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCostaGrillo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciuscostagrillo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostaGrillo&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciuscostagrillo&layout=compact&theme=tokyonight"/>
 
 </div>
 
